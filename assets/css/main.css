@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    background-image: url('https://templatemo.com/templates/templatemo_567_nomad_force/videos/792bd98f3e617786c850493560e11c45.jpg');
+    width: 100%;
+    height: 100vh;
+}
+
+.img-text {
+    text-align: center;
+    color: white;
+    padding-top: 350px;
+}
+
+.img-text h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.img-text p {
+    font-size: 25px;
+    padding-top: 40px;
+}
+
+.image {
+    width: 100%;
+    height: 70vh;
+}
+
+.txt {
+    text-align: center;
+    padding-top: 70px;
+    font-weight: bold;
+}
+
+.formm {
+    width: 75%;
+    padding-top: 50px;
+    padding-left: 250px;
+    text-align: center;
+}
+
+.map {
+    padding-top: 80px;
+}
+
+.foot {
+    background-color: black;
+}
